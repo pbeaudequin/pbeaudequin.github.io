@@ -30,9 +30,9 @@ url: "www.happyaurouret.com" # the base hostname & protocol for your site, e.g. 
 github_username:  pbeaudequin
 
 # Build settings
-theme: minimal-mistakes-jekyll
-plugins:
-  - jekyll-feed
+theme: minima
+# plugins:
+#   - jekyll-feed
 
 # Exclude from processing.
 # The following items will not be processed, by default.
